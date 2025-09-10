@@ -34,6 +34,15 @@ The dataset used in this project was obtained from **[https://www.kaggle.com/dat
 4. **🚀 Advanced SQL Techniques**: Dynamic percentages, age group categorization, dashboard-ready insights  
 
 ---
+
+## 🌟 Insights
+
+- **Identify high-risk groups** by age and gender
+- **Explore correlations** between lifestyle habits and lung cancer
+- **Provide data** for dashboards & visualizations
+- Useful for **healthcare analytics, research, and education**
+
+---
 ## 📝 **Example Queries**
 
 ```sql
@@ -60,13 +69,7 @@ SELECT
 FROM lung_cancer_dataset
 GROUP BY age_group;
 .
------
-## 🌟 Insights
 
-- **Identify high-risk groups** by age and gender
-- **Explore correlations** between lifestyle habits and lung cancer
-- **Provide data** for dashboards & visualizations
-- Useful for **healthcare analytics, research, and education**
 
 ## 📝 License
 
