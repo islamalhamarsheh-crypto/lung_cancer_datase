@@ -61,12 +61,14 @@ FROM lung_cancer_dataset
 GROUP BY age_group;
 -----
 ## 🌟 Insights
-- Identify **high-risk groups** by age and gender
-- Explore **correlations** between lifestyle habits and lung cancer
-- Provide **data for dashboards & visualizations**
+
+- **Identify high-risk groups** by age and gender
+- **Explore correlations** between lifestyle habits and lung cancer
+- **Provide data** for dashboards & visualizations
 - Useful for **healthcare analytics, research, and education**
 
 ## 📝 License
 
 This project is open-source under the MIT License 💻
+
 
