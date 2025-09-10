@@ -59,6 +59,7 @@ SELECT
     CONCAT(ROUND(SUM(CAST(asbestos_exposure AS int)) * 100 / COUNT(patient_id), 2), '%') AS asbestos_percentage
 FROM lung_cancer_dataset
 GROUP BY age_group;
+.
 -----
 ## 🌟 Insights
 
