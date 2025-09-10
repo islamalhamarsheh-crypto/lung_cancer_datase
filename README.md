@@ -43,6 +43,12 @@ The dataset used in this project was obtained from **[https://www.kaggle.com/dat
 - Useful for **healthcare analytics, research, and education**
 
 ---
+
+## 📝 License
+This project is open-source under the MIT License 💻
+
+
+
 ## 📝 **Example Queries**
 
 ```sql
@@ -71,8 +77,6 @@ GROUP BY age_group;
 .
 
 
-## 📝 License
 
-This project is open-source under the MIT License 💻
 
 
